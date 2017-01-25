@@ -1,0 +1,6 @@
+{
+	 "db_name":"romenys",
+	 "db_pass":"",
+	 "cache":"var/cache",
+	 "debug":true
+}
